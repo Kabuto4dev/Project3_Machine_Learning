@@ -2,7 +2,9 @@
 Machine learning project of an e-commerce economic and geographic dataset
 
 # Description
-A machine learning project was developed using a dataset of economic and geographic values from an e-commerce platform, extracted from archive.ics.uci.edu. A Streamlit App was created that includes an analysis with different models in the file `ecommerceML.py`:
+A machine learning project was developed using a dataset of economic and geographic values from an e-commerce platform, extracted from archive.ics.uci.edu. 
+
+A Streamlit App was created that includes an analysis with different models in the file `ecommerceML.py`:
 
 #### Model Classification
 
