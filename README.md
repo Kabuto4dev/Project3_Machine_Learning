@@ -2,6 +2,8 @@
 Machine learning project of an e-commerce economic and geographic dataset
 
 # Description
+A machine learning project was developed using a dataset of economic and geographic values from an e-commerce platform, extracted from archive.ics.uci.edu. A Streamlit App was created that includes an analysis with different models in the file `ecommerceML.py`:
+
 #### Model Classification
 
 **Classification and Regression Models**:
@@ -32,7 +34,6 @@ Balancing data is crucial when working with imbalanced datasets (where one class
 - **SMOTE (Synthetic Minority Over-sampling Technique)**: Generating synthetic examples of the minority class.
 
 Parameters can be selected by the user in advance, deciding on the target and feature columns that can be trained with the models.
-
 
 # Sources from which it has been extracted
 
